@@ -8,6 +8,9 @@ This is a simple Currency Converter web application built using React. The main 
 -Real-time exchange rates: The app uses a third-party API to provide up-to-date exchange rates.
 -User-friendly interface: A clean and intuitive interface for a seamless user experience.
 
+# Screenshot
+![web-screenshot-13-10-2023](https://github.com/Emmanuel687/Currency-Converter/assets/93251478/603fcdb8-d7a9-482e-b228-4a8cea9d1595)
+
 # Technologies Used
 React: A JavaScript library for building user interfaces.
 useEffect Hook: Used for managing side effects in functional components, such as fetching data from external APIs.
@@ -18,19 +21,29 @@ To run this project locally, follow these steps:
 Clone the repository to your local machine.
 
 git clone <repository-url>
+
 Navigate to the project directory.
+
 cd currency-converter-app
+
 Install the project dependencies using npm or yarn.
+
 Start the development server.
+
 Open your web browser and go to http://localhost:3000 to use the Currency Converter app.
 
 # Usage
 Select the base currency from the dropdown menu.
+
 Enter the amount you want to convert.
+
 Choose the target currency from another dropdown.
+
 The app will instantly display the converted amount based on the latest exchange rate.
 Credits
+
 Exchange rate data is provided by a third-party API (mention the API if applicable).
+
 This project is created as part of a React learning journey.
 
 # Author
